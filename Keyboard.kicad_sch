@@ -11937,7 +11937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:RaspberryPi_Pico_Common_THT"
+		(property "Footprint" "Library:RaspberryPi_Pico_Common_THT"
 			(at 48.26 149.86 90)
 			(effects
 				(font
