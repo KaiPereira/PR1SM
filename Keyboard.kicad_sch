@@ -19832,7 +19832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kai's library:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.50u_PCB"
 			(at 241.3 66.04 0)
 			(effects
 				(font
@@ -23172,7 +23172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 157.48 111.76 0)
 			(effects
 				(font
@@ -23907,7 +23907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kai's library:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_2.75u_PCB"
 			(at 213.36 96.52 0)
 			(effects
 				(font
@@ -26155,7 +26155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_6.25u_PCB"
 			(at 115.57 111.76 0)
 			(effects
 				(font
@@ -28341,7 +28341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 129.54 111.76 0)
 			(effects
 				(font
@@ -28478,7 +28478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kai's library:RaspberryPi_Pico_Common_THT"
+		(property "Footprint" "kai's library:RaspberryPi_Pico_Common_THT_BACKSIDE"
 			(at 330.2 102.87 90)
 			(effects
 				(font
@@ -31207,7 +31207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 101.6 111.76 0)
 			(effects
 				(font
@@ -38702,7 +38702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 143.51 111.76 0)
 			(effects
 				(font
@@ -42511,7 +42511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 59.69 111.76 0)
 			(effects
 				(font
@@ -42789,7 +42789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_2.00u_PCB"
 			(at 241.3 50.8 0)
 			(effects
 				(font
@@ -43301,7 +43301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 73.66 111.76 0)
 			(effects
 				(font
@@ -43369,7 +43369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.25u_PCB"
 			(at 87.63 111.76 0)
 			(effects
 				(font
