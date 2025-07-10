@@ -23907,7 +23907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.75u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_2.25u_PCB"
 			(at 213.36 96.52 0)
 			(effects
 				(font
@@ -28834,7 +28834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_2.25u_PCB"
 			(at 227.33 81.28 0)
 			(effects
 				(font
@@ -30687,7 +30687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_2.25u_PCB"
 			(at 59.69 96.52 0)
 			(effects
 				(font
@@ -32541,7 +32541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.50u_PCB"
 			(at 59.69 66.04 0)
 			(effects
 				(font
@@ -39661,7 +39661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "kai's library:SW_Cherry_MX_1.75u_PCB"
 			(at 59.69 81.28 0)
 			(effects
 				(font
