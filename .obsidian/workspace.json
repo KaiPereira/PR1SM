@@ -183,21 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74d26ac80d3c9e28",
+  "active": "136074fcf620edcf",
   "lastOpenFiles": [
+    "CAD/Full Case/Full Case.obj",
+    "CAD/Full Case/Full Case.mtl",
+    "CAD/Full Case",
+    "Full Case/Full Case.obj",
+    "Full Case/Full Case.mtl",
+    "Full Case",
     "journal/Pasted image 20250718175547.png",
     "PCB/Keyboard-backups/Keyboard-2025-07-18_175439.zip",
     "PCB/fp-info-cacheIr50iR",
     "PCB/Keyboard-backups/Keyboard-2025-07-18_175432.zip",
     "PCB/$tempfile$.glb",
     "PCB/$tempfile$.bin.tmp",
-    "PCB/~Keyboard.kicad_pro.lck",
-    "PCB/~Keyboard.kicad_pcb.lck",
-    "renders/render.blend@",
     "journal/Pasted image 20250718174121.png",
-    "PCB/fp-info-cacheaeLoiT",
     "README.md",
-    "README.md~",
     "JOURNAL.md",
     "journal/Pasted image 20250718021948.png",
     "journal/Pasted image 20250718024216.png",
@@ -206,7 +207,6 @@
     "journal/Pasted image 20250718023104.png",
     "journal/Pasted image 20250718023041.png",
     "journal/Pasted image 20250718022402.png",
-    "journal/Pasted image 20250718013549.png",
-    "journal/Pasted image 20250718020103.png"
+    "journal/Pasted image 20250718013549.png"
   ]
 }

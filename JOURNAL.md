@@ -111,3 +111,6 @@ So next I started up a new blender project, and I also added all the blender fil
 Then I just added the keyboard model from KiCad as a GLB and we now have the base for our PCB in Blender.
 
 ![[Pasted image 20250718175547.png]]
+
+After that, I applied a slightly bumpy material to the keycaps and added in the case.
+
