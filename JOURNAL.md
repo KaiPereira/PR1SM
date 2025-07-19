@@ -112,5 +112,17 @@ Then I just added the keyboard model from KiCad as a GLB and we now have the bas
 
 ![[Pasted image 20250718175547.png]]
 
-After that, I applied a slightly bumpy material to the keycaps and added in the case.
+After that, I applied a slightly bumpy material to the keycaps and added in the case. The case is just going to be some transparent acrylic, and then I'm just going to make the screws ultra-metallic because I kind of like that style.
+
+After that I added a camera angle, I figured out you could do View -> Align View -> Align active camera to active view, and you could just set the camera to whatever you were currently looking at which looks really good.
+
+![[Pasted image 20250719025856.png]]
+
+Also make sure to render with cycles instead of Eevee because it's way more realistic, and renders transparent materials like glass way more nicely.
+
+Anyways now I'm going to actually render the image, and let's see how it turns out!
+
+![[Pasted image 20250719031946.png]]
+
+Now that looks pretty good, but I still want the acrylic to be kind of more see-through like the render preview, so I guess I'll have to mess around with the settings a bit more.
 
