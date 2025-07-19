@@ -100,7 +100,7 @@ It'll be soldered a bit away from the resistors so it has some clearance space.
 
 Now I know that it probably doesn't seem like I spent too long on this case because it's so simple, but I kept on messing up the tolerances, and also I'm not used to making something that fits in so cleanly like this. And it's laser cut, bolted in so a couple more things to take into account instead of just 3D printing it.
 
-## Day 4 - Refining and Rendering
+## Day 4 - Refining and Rendering - 6 Hours
 
 Anyways before I rendered my project, I needed to add a couple more models to the PCB so that it would look very accurate in the render. So I just added the neopixels and the stabilizers to the PCB model and re-downloaded it. I usually download the PCB as a GLB for blender because it's pretty fast and keeps most of it's details!
 
@@ -124,5 +124,11 @@ Anyways now I'm going to actually render the image, and let's see how it turns o
 
 ![[Pasted image 20250719031946.png]]
 
-Now that looks pretty good, but I still want the acrylic to be kind of more see-through like the render preview, so I guess I'll have to mess around with the settings a bit more.
+Now that looks pretty good, but I still want the acrylic to be kind of more see-through like the render preview, so I guess I'll have to mess around with the settings a bit more. But anyways I'm kind of too lazy to fix that, and now I just want to ship it out. 
+
+Maybe sometime I'll get it working, but for now, I'll just use the Onshape render because that one looks more realistic to the actual thing.
+
+That was quite a bit of time wasted, but I did learn a ton more about Blender which was nice. Time to ship the project!
+
+**Total time worked on this project: 23 hours (probably more than that, but this is a safe estimate)** 
 
