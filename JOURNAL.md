@@ -102,6 +102,9 @@ Now I know that it probably doesn't seem like I spent too long on this case beca
 
 ## Day 4 - Refining and Rendering
 
+Anyways before I rendered my project, I needed to add a couple more models to the PCB so that it would look very accurate in the render. So I just added the neopixels and the stabilizers to the PCB model and re-downloaded it. I usually download the PCB as a GLB for blender because it's pretty fast and keeps most of it's details!
 
+![[Pasted image 20250718174121.png]]
 
+So next I started up a new blender project, and I also added all the blender files to LFS so I didn't have issues with large files. You need to remember to add both the ".blender" and the ".blender1" files to LFS.
 

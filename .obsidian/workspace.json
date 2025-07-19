@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "JOURNAL"
             }
           }
         ],
@@ -183,11 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "136074fcf620edcf",
+  "active": "74d26ac80d3c9e28",
   "lastOpenFiles": [
+    "journal/Pasted image 20250718174121.png",
+    "PCB/fp-info-cacheaeLoiT",
+    "PCB/~Keyboard.kicad_pcb.lck",
+    "PCB/~Keyboard.kicad_pro.lck",
+    "README.md",
     "README.md~",
     "JOURNAL.md",
-    "README.md",
     "journal/Pasted image 20250718021948.png",
     "journal/Pasted image 20250718024216.png",
     "journal/Pasted image 20250718023624.png",
@@ -203,9 +207,6 @@
     "journal/Pasted image 20250718013549.png",
     "journal/Pasted image 20250718020103.png",
     "journal/Pasted image 20250718020006.png",
-    "pcb/#auto_saved_files#",
-    "pcb/_autosave-Keyboard.kicad_sch",
-    "JOURNAL.md~",
-    "journal"
+    "pcb/#auto_saved_files#"
   ]
 }
