@@ -50,6 +50,10 @@ Here's everything you'll need to build your own PR1SM keyboard:
 - 1x 1.5mm thick acrylic panel
 - 10x Low profile M3 bolts/nuts
 
+Here's the link to the spreadsheet: https://docs.google.com/spreadsheets/d/1PX1jr134__XBLFXCxBkakxo4KN2pxjdmwIgQ4_i7XN4/edit?usp=sharing
+
+![Pasted image 20250720012424.png](journal/Pasted%20image%2020250720012424.png)
+
 ## Credits & Help
 
 Thanks to @cheyao and the KiCad discord server for helping me with the wiring and the decoupling caps. @alcovesofastridpark on reddit for the main inspiration for the stacked acrylic and backlight. And of course @qcoral and @acornitum for starting Highway, the program funding this keyboard.
