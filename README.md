@@ -35,6 +35,10 @@ Now the PCB is a bit interesting, because it uses a ground fill on the bottom, a
 
 ![Pasted image 20250718023624.png](journal/Pasted%20image%2020250718023624.png)
 
+Some 3D photo's:
+
+![Pasted image 20250720013311.png](journal/Pasted%20image%2020250720013311.png)
+![Pasted image 20250720013340.png](journal/Pasted%20image%2020250720013340.png)
 ## Firmware
 
 PR1SM uses KMK firmware which is written in Python. I programmed all the keys in a matrix and then the backlit neopixels are just running in a wave pattern.
