@@ -4,6 +4,7 @@ author: Kai Pereira
 description: " A minimalic, stacked fully backlit acrylic keyboard using a small 2 layer pcb"
 created_at: 2025-07-07
 ---
+**Total Time Spent: 23 Hours**
 ## Day 1 -  PCB Schematic - 3 Hours - July 7th
 
 The PR1SM keyboard is going to be a simple, stacked acrylic keyboard that will have some back-lighting. I want a blend of functionality and aesthetic so I'm going with a more simple design that's still decently complex.
