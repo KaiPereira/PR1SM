@@ -137,3 +137,32 @@ Anyways, finally, I created the BOM, and now it's time to submit!
 
 **Total time worked on this project: 23 hours (probably more than that, but this is a safe estimate)** 
 
+## Day 5 - Assembly - 10 Hours
+
+I just got my PCB in the main and all the parts, so time to solder and assemble:
+
+![[Pasted image 20250807051407.png]]
+
+I had both neopixels, keys and diodes so it was going to be LOTS of soldering.
+
+First I started off by tinning ALL the pads of my neopixels. This makes it easy for them to solder. But trust me, this isn't ACTUALLY the first thing I did, first I tried to solder them in directly which didn't work, so I did a bit of research and came across this.
+
+Anyways, tin all your pads, and then place a neopixel on the pad. Hold the neopixel with tweezers or something and then just press the solder onto a pad and it'll join it in place. Now you can just do the same for all the other pads and then apply the solder when you're done for a nice finish!
+
+Next I did the diodes, it was pretty simple, just some THT so I applied heat to all three, the pad, the lead and the solder, and I think my soldering turned out pretty nice.
+
+![[Pasted image 20250807051322.png]]
+
+I forgot to mention, but I had a pi pico, so I kind of just like soldered it THT, it already had pin headers so it was nothing crazy.
+
+Anyways, after that, I put in all the switches, which was just quite a bit of solder used to fill the big pads, but it turned out nicely.
+
+I didn't get my case in time so I actually couldn't do plate mounted, but I'll just switch the CAD design a tad so it'll work.
+
+After doing all the switches, I put all the keycaps on, and it was looking beautiful!
+
+![[Pasted image 20250807051506.png]]
+
+Now all I had to do was upload the firmware which was just adding it from my repository and it was up and running!
+
+Again, I couldn't have gotten the neopixels up and running in time before my vacation, but it's a functioning keyboard which I'm happy with!

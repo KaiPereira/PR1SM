@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "JOURNAL"
             }
           }
         ],
@@ -185,6 +185,10 @@
   },
   "active": "74d26ac80d3c9e28",
   "lastOpenFiles": [
+    "journal/Pasted image 20250807051506.png",
+    "journal/Pasted image 20250807051407.png",
+    "journal/Pasted image 20250807051322.png",
+    "README.md",
     "journal/Pasted image 20250720013340.png",
     "journal/Pasted image 20250720013311.png",
     "JOURNAL.md~",
@@ -203,10 +207,6 @@
     "journal/Pasted image 20250718175547.png",
     "PCB/Keyboard-backups/Keyboard-2025-07-18_175439.zip",
     "PCB/fp-info-cacheIr50iR",
-    "journal/Pasted image 20250718174121.png",
-    "README.md",
-    "journal/Pasted image 20250718021948.png",
-    "journal/Pasted image 20250718024216.png",
-    "journal/Pasted image 20250718023624.png"
+    "journal/Pasted image 20250718174121.png"
   ]
 }
