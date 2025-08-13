@@ -68,7 +68,7 @@ Here's the link to the spreadsheet: https://docs.google.com/spreadsheets/d/1PX1j
 
 Building PR1SM was a bit annoying, first my acrylic didn't come in time so I couldn't do the case, and SO much soldering. So I soldered all the neopixels, switches, diodes and the XIAO, over 500 pads with SMD neopixels but it came out pretty nice:
 
-![[IMG_1544.jpg]]
+![IMG_1544.jpg](journal/IMG_1544.jpg)
 
 You can see it's missing the case and 2 keys, because I needed 2 of the keys for CYPERPAD-01 because nothing came in time, and the case also didn't make it in time. There's a quick demo of PR1SM here: https://youtu.be/5JWjgYZzMfM
 ## Credits & Help
