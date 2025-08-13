@@ -64,6 +64,13 @@ Here's the link to the spreadsheet: https://docs.google.com/spreadsheets/d/1PX1j
 
 ![Pasted image 20250720012424.png](journal/Pasted%20image%2020250720012424.png)
 
+## Build Process
+
+Building PR1SM was a bit annoying, first my acrylic didn't come in time so I couldn't do the case, and SO much soldering. So I soldered all the neopixels, switches, diodes and the XIAO, over 500 pads with SMD neopixels but it came out pretty nice:
+
+![[IMG_1544.jpg]]
+
+You can see it's missing the case and 2 keys, because I needed 2 of the keys for CYPERPAD-01 because nothing came in time, and the case also didn't make it in time. There's a quick demo of PR1SM here: https://youtu.be/5JWjgYZzMfM
 ## Credits & Help
 
 Thanks to @cheyao and the KiCad discord server for helping me with the wiring and the decoupling caps. @alcovesofastridpark on reddit for the main inspiration for the stacked acrylic and backlight. And of course @qcoral and @acornitum for starting Highway, the program funding this keyboard.
