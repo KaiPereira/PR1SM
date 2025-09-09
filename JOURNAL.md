@@ -141,7 +141,7 @@ Anyways, finally, I created the BOM, and now it's time to submit!
 
 I just got my PCB in the main and all the parts, so time to solder and assemble:
 
-![[Pasted image 20250807051407.png]]
+![Pasted image 20250807051407.png](journal/Pasted%20image%2020250807051407.png)
 
 I had both neopixels, keys and diodes so it was going to be LOTS of soldering.
 
@@ -151,7 +151,7 @@ Anyways, tin all your pads, and then place a neopixel on the pad. Hold the neopi
 
 Next I did the diodes, it was pretty simple, just some THT so I applied heat to all three, the pad, the lead and the solder, and I think my soldering turned out pretty nice.
 
-![[Pasted image 20250807051322.png]]
+![Pasted image 20250807051322.png](journal/Pasted%20image%2020250807051322.png)
 
 I forgot to mention, but I had a pi pico, so I kind of just like soldered it THT, it already had pin headers so it was nothing crazy.
 
@@ -161,7 +161,7 @@ I didn't get my case in time so I actually couldn't do plate mounted, but I'll j
 
 After doing all the switches, I put all the keycaps on, and it was looking beautiful!
 
-![[Pasted image 20250807051506.png]]
+![Pasted image 20250807051506.png](journal/Pasted%20image%2020250807051506.png)
 
 Now all I had to do was upload the firmware which was just adding it from my repository and it was up and running!
 
