@@ -2,7 +2,8 @@
 
 PR1SM is a minimalistic, stacked acrylic keyboard with neopixel backlight, running on KMK. It's built on a cheap, compact 2 layer PCB and has a fully fledged TKL (tenkeyless) layout.
 
-![Pasted image 20250718024216.png](journal/Pasted%20image%2020250718024216.png)
+![Pasted image 20250718024216.png](renders/pr1sm_top.png)
+![pr1sm bottom](renders/pr1sm_bottom.png)
 
 ## Custom Features
 - Fully laser cut stacked case that will leak the RGB colors
